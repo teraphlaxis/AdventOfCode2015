@@ -55,7 +55,6 @@ namespace Day4_Challenge1
 
 					t_Guess++;
 				}
-
 			}
 
 			// Halt Exit
